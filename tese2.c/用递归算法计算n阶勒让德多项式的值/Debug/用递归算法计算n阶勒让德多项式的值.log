@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\闪客八郎\Desktop\c语言学习专业文件夹\用递归算法计算n阶勒让德多项式的值\用递归算法计算n阶勒让德多项式的值\test.c(8,11): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+  用递归算法计算n阶勒让德多项式的值.vcxproj -> C:\Users\闪客八郎\Desktop\c语言学习专业文件夹\用递归算法计算n阶勒让德多项式的值\Debug\用递归算法计算n阶勒让德多项式的值.exe
